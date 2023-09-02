@@ -1,6 +1,6 @@
 # California Housing Price Prediction
 
-!MIT(https://img.shields.io/badge/License-MIT-brightgreen.svg)
+
 
 ## Overview
 
