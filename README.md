@@ -85,7 +85,7 @@ In summary:
 
 ## License
 
-This project is licensed under the [License] license. For more information, please refer to the license file.
+This project is licensed under the MIT license. For more information, please refer to the license file.
 
 ---
 
